@@ -17,4 +17,4 @@ Allow: /
 User-agent: Storebot-Google
 Allow: /
 
-Sitemap: https://glucotru.vercel.app/sitemap.xml
+Sitemap: https://fastleanpro.vercel.app/sitemap.xml
