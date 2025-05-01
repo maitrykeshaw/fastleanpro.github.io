@@ -1,1 +1,1 @@
-# https://fastleanpro.vercel.app
+# https://fastleanpro.vercel.app/
