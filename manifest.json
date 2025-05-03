@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"Fast Lean Pro™ | Official Website",
+  "short_name":"Fast Lean Pro™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"Fast lean pro is a cutting edge dietary supplement designed to support healthy weight loss and enhance fat burning processes.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
